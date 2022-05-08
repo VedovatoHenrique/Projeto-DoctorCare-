@@ -436,7 +436,7 @@ footer .social-links{
 #backToTopButton{
   position: fixed;
   bottom: 1rem;
-  right: 2.5rem;
+  left: 2.5rem;
 
   opacity: 0;
   visibility: hidden;
